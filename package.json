@@ -1,0 +1,29 @@
+{
+  "name": "compact-object",
+  "version": "0.0.1",
+  "description": "Returns an object with \"non-empty\" values only.",
+  "main": "compact-object.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/compact-object"
+  },
+  "keywords": [
+    "compact",
+    "object"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/compact-object/issues"
+  },
+  "homepage": "https://github.com/miguelmota/compact-object",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
