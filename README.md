@@ -5,7 +5,7 @@ Returns an object with *non-empty* values only.
 # Install
 
 ```bash
-npm install compact-object
+npm install compactobject
 ```
 
 ```bash

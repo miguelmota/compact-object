@@ -1,5 +1,5 @@
 {
-  "name": "compact-object",
+  "name": "compactobject",
   "version": "0.0.1",
   "description": "Returns an object with \"non-empty\" values only.",
   "main": "compact-object.js",
