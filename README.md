@@ -15,7 +15,7 @@ bower install compact-object
 # Usage
 
 ```javascript
-var compact = require('compact-object');
+var compact = require('compactobject');
 
 var object = {
   a: 'b',
