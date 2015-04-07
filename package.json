@@ -1,6 +1,6 @@
 {
   "name": "compactobject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Returns an object with \"non-empty\" values only.",
   "main": "compact-object.js",
   "directories": {
