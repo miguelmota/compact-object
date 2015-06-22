@@ -1,6 +1,6 @@
 {
   "name": "compactobject",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Returns an object with \"non-empty\" values only.",
   "main": "compact-object.js",
   "directories": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/miguelmota/compact-object/issues"
   },
   "homepage": "https://github.com/miguelmota/compact-object",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^3.0.3"
   }
 }

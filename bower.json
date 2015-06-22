@@ -1,7 +1,7 @@
 {
   "name": "compact-object",
   "main": "compact-object.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/miguelmota/compact-object",
   "authors": [
     "Miguel Mota <miguelmota2@gmail.com>"
